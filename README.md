@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Dors
-- 🟢 I edit videos for people at michaeldors.com
+- 🟢 I edit videos for people at https://michaeldors.com
 - 👀 I’m interested in filmmaking and videography.
 - 📫 You can reach me at contact@michaeldors.com
 
