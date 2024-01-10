@@ -1,5 +1,5 @@
-👋 Hi, I’m Michael Dors
-I edit videos for people at https://michaeldors.com. I’m interested in filmmaking and videography. I also developed Wiffdle and http://countdown.michaeldors.com
+👋 Hi
+I do stuff over at https://michaeldors.com. I’m interested in filmmaking and videography, coding, etc. I also developed https://wiffdle.github.io/ and http://countdown.michaeldors.com
 
 📫 You can reach me at contact@michaeldors.com
 
